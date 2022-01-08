@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'The Nautigal', cursive;
+  font-size: 4.5rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2em;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  font-family: 'Noto Serif', serif;
+}
+
+hr {
+  margin: 80px auto 80px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #D3DEDC
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  line-height: 1;
+  background-color: #66BFBF
+}
+
+.code-skill-description {
+  width: 50%;
+  margin: auto;
+}
+
+.footer-link {
+  margin: 20px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.midcloud {
+  position: absolute;
+  left: 400px;
+}
+
+.profilepic {
+  height: 200px;
+  margin-top: 3.5em;
+}
+
+.skillspng {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills2png {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.code-skill-description {
+  clear: left;
+}
+
+.code-skill-description2 {
+  clear: right;
+}
+
+.bottom-name {
+  margin-bottom: auto;
+  color: #EAF6F6
+}
+
+.footer-link {
+  color: #11999E
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+  line-height: 2
+}
+
+.p-btn {
+  margin-bottom: 50px;
+}
+
+.btn {
+  background: #11cdd4;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
